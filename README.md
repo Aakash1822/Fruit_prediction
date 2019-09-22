@@ -5,7 +5,7 @@ Fruit Prediction using its size and shape
 2. Python3
 3. Jypyter notebook
 # Description
-In this project we are making prediction of fruits type by its given attributes(in datset) using machine learning algorithm.
+In this project we are making a prediction of fruits type by its given attributes size and shape (in given dataset) using machine learning algorithm.
 # Steps
 1.Firstly Collect datasets of fruits and apply preprocessing on it an make data in structured format remove noisy and irrelevant data from datasets in form of excel sheets(.csv file) 
 2.Then using pandas make categorical data in into further insightful information including frequency, mean, median, count etc.
